@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<IncidentDef>
+		<defName>Tmae_DrugMist</defName>
+		<label>drug mist</label>
+		<category>Misc</category>
+		<targetTags>
+		  <li>Map_PlayerHome</li>
+		</targetTags>
+		<workerClass>IncidentWorker_MakeGameCondition</workerClass>
+		<gameCondition>Tmae_DrugMist</gameCondition>
+		
+		<letterLabel>Drug Mist</letterLabel>
+		<letterText>A strange mist rolls in, bringing particles of psychite tea. Everyone outdoors will experience the effects. It should dissipate in a day or two.</letterText>
+
+		<letterDef>NeutralEvent</letterDef> <!-- maybe hsould be positive? -->
+		<baseChance>0.15</baseChance>
+		<earliestDay>10</earliestDay>
+		<minRefireDays>45</minRefireDays>
+		<minDifficulty>2</minDifficulty>
+		<durationDays>
+			<min>1</min>
+			<max>2.5</max>
+		</durationDays>
+		<tale>Tmae_DrugMist</tale>
+	</IncidentDef>
+
+  
+  </Defs>

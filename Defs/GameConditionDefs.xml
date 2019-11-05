@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<GameConditionDef>
+		<defName>Tmae_DrugMist</defName>
+		<conditionClass>ThisModAddsEvents.GameCondition_DrugMist</conditionClass>
+		<label>drug mist</label>
+		<description>A strange mist rolls in, bringing particles of psychite tea. Everyone outdoors will experience the effects.</description>
+		<endMessage>The strange mist has dissipated</endMessage>
+		<canBePermanent>true</canBePermanent>
+	</GameConditionDef>
+  
+  
+  
+</Defs>

@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Z_ThisModAddsEvents\Assemblies\ThisModAddsEvents\obj\Debug\ThisModAddsEvents.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Z_ThisModAddsEvents\Assemblies\ThisModAddsEvents\obj\Debug\ThisModAddsEvents.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Z_ThisModAddsEvents\Source\ThisModAddsEvents.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Z_ThisModAddsEvents\Source\ThisModAddsEvents.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Z_ThisModAddsEvents\Assemblies\ThisModAddsEvents\obj\Debug\ThisModAddsEvents.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Z_ThisModAddsEvents\Assemblies\ThisModAddsEvents\obj\Debug\ThisModAddsEvents.pdb

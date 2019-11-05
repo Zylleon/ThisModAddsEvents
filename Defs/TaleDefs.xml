@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+<TaleDef>
+    <defName>Tmae_DrugMist</defName>
+    <label>toxic fallout</label>
+    <taleClass>Tale_SinglePawn</taleClass>
+    <type>Volatile</type>
+    <baseInterest>50</baseInterest>
+    <rulePack>
+      <rulesStrings>
+        <li>tale_noun->a strange mist settling over [PAWN_nameDef]'s [Community]</li>
+        <li>tale_noun->the air near [PAWN_nameDef]'s [Community] filling with a pleasing mist</li>
+		<li>tale_noun->the time a psychite mist covered [PAWN_nameDef]'s [Community]</li>
+		<li>tale_noun->[PAWN_nameDef]'s [Community] calmed by a strange mist</li>
+		
+		<li>image->[PAWN_nameFull] peacefully sleeping [circumstance_group]</li>
+		<li>image->a friendly glowing sky, [circumstance_group]</li>
+		<li>image->[PAWN_nameFull] contentedly wandering through a field [circumstance_group]</li>
+		<li>image->the air glowing gently and [circumstance_group]</li>
+		
+		<li>circumstance_phrase->enjoying the breeze</li>
+		<li>circumstance_phrase->with a look of peacefuless</li>
+		<li>circumstance_phrase->blowing into a [Community]</li>
+		<li>circumstance_phrase->carried into a [Community] on the wind</li>
+		
+		<li>desc_sentence->[PAWN_nameDef] rests on the ground, eyes .</li>
+		<li>desc_sentence->[PAWN_nameDef] loiters near a [TerrainFeature], gazing out with a [AdjectiveFriendly] look.</li>
+		<li>desc_sentence->[Quantity_adjphrase] [Animal]s sniff the air</li>
+		<li>desc_sentence->[Quantity_adjphrase] [Animal]s mill around uncertainly.</li>
+		<li>desc_sentence->[Quantity_adjphrase] [PersonJob]s lie nearby in a similar state.</li>
+      </rulesStrings>
+    </rulePack>
+  </TaleDef>
+  
+  </Defs>
